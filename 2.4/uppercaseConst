@@ -1,0 +1,2 @@
+const BIRTHDAY = '12.03.1981';
+const age = someCode(BIRTHDAY);
