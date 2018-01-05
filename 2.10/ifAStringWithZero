@@ -1,0 +1,7 @@
+Will alert be shown?
+
+if ("0") {
+  alert( 'Hello' );
+}
+
+// Yes. Any string but an empty one will result true for this conditional operator.
